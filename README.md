@@ -54,5 +54,10 @@ The dataset has 12 explanatory variables of customers and a target variable call
 * Credit_History - credit history meets guidelines
 * Property_Area - Urban/ Semi Urban/ Rural
 
+# 4. Como reproduzir
 
-<br>
+Create a new virtual environment and activate, then:
+
+```sh
+make requirements
+```
