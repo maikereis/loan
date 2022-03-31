@@ -54,10 +54,12 @@ The dataset has 12 explanatory variables of customers and a target variable call
 * Credit_History - credit history meets guidelines
 * Property_Area - Urban/ Semi Urban/ Rural
 
-# 4. Como reproduzir
+# 4. How to use
 
 Create a new virtual environment and activate, then:
 
 ```sh
 make requirements
 ```
+
+You can run the [eda](loan_eda.ipynb) notebook to see the analysis, and the [model](loan_model.ipynb)  notebook to see the modeling.
