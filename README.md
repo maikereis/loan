@@ -18,8 +18,8 @@ See on [analyticsvidhya](https://datahack.analyticsvidhya.com/contest/practice-p
 
  **1. Context:**
 
-   A startup **SweetHome**, begins his operation of real state in Ames, Iowa. The main business is to buy and sell houses, like the [Zillow](https://www.zillow.com/).
-
+   Dream Housing Finance company, begins its operation in real estate in Ames, Iowa. They offer credit to buy a house.
+   
  **2.The Bussiness Problem:**
    
    Company wants to automate the loan eligibility process (real time) based on customer detail provided while filling online application form. These details are Gender, Marital Status, Education, Number of Dependents, Income, Loan Amount, Credit History and others. To automate this process, they have provided a dataset to identify the customers segments that are eligible for loan amount so that they can specifically target these customers. 
